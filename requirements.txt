@@ -1,0 +1,5 @@
+Flask
+python-dotenv
+requests
+langdetect
+ollama  # 如果使用Ollama Python库

@@ -1,0 +1,32 @@
+{
+  "name": "你的名字",
+  "title": "软件工程师",
+  "contact": {
+    "email": "your.email@example.com",
+    "linkedin": "linkedin.com/in/yourprofile",
+    "github": "github.com/yourusername"
+  },
+  "summary": "一位积极主动、经验丰富的软件工程师，热衷于开发创新解决方案。精通Python、JavaScript和云技术。",
+  "experience": [
+    {
+      "company": "某科技公司",
+      "role": "高级软件工程师",
+      "period": "2020年1月 - 至今",
+      "description": "领导团队开发和部署可扩展的Web应用程序。将系统性能提高了30%。"
+    },
+    {
+      "company": "某创新科技有限公司",
+      "role": "软件工程师",
+      "period": "2017年6月 - 2019年12月",
+      "description": "为SaaS产品开发功能。为用户参与度提高20%做出了贡献。"
+    }
+  ],
+  "education": [
+    {
+      "institution": "某某大学",
+      "degree": "计算机科学硕士",
+      "period": "2015年 - 2017年"
+    }
+  ],
+  "skills": ["Python", "JavaScript", "React", "Node.js", "AWS", "Docker", "SQL"]
+}
